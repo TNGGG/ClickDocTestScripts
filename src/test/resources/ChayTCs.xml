@@ -1,0 +1,11 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+
+<suite name="Suite" verbose="1">
+    <test name="FirstTest">
+        <classes>
+            <!--            <class name="Bai9Demo.TestNG" />-->
+            <!--            <class name="Bai9Demo.TestNG2" />-->
+            <!--            <class name="Bai9Demo.TestNG3" />-->
+        </classes>
+    </test>
+</suite>
