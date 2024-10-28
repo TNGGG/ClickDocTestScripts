@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d8929ab5-95f5-44e9-bf3e-30b02611bcf4" name="Changes" comment="Login module added" />
+    <list default="true" id="d8929ab5-95f5-44e9-bf3e-30b02611bcf4" name="Changes" comment="Login module added">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -130,7 +132,23 @@
       <option name="project" value="LOCAL" />
       <updated>1730099950733</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Login module added">
+      <option name="closed" value="true" />
+      <created>1730100027879</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1730100027879</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Login module added">
+      <option name="closed" value="true" />
+      <created>1730100199349</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1730100199349</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
